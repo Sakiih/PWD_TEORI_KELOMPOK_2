@@ -13,7 +13,7 @@ Sebelum masuk ke HTML, CSS, dan jQuery, kita perlu memahami terlebih dahulu apa 
 
 #### Studi Kasus
 
-Seorang pengguna kesulitan mencatat dan memantau keuangan pribadinya karena pemasukan dan pengeluaran belum tercatat dengan rapi.
+Seorang pengguna kesulitan mencatat dan memantau keuangan pribadinya karena pemasukan dan pengeluarannya belum tercatat dengan rapi.
 
 **Aktor:** Pengguna
 
